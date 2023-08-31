@@ -8,4 +8,4 @@ The code consists of two parts:
 
 Cheers, 
 
-*Gosia*
+*Gortzaah ov Doom*
