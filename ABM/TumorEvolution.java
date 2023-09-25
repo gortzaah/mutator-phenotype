@@ -92,7 +92,7 @@ class ABMParameters {
     @Parameter(names = "-output_prefix")
     public String outputPrefix = "intl_scatter/replicates/";
     @Parameter
-    public String outputDirectory = "/Users/80021045/Dropbox/PhD project/HAL-Results/Tests/";
+    public String outputDirectory = "/Users/XXXXXX/Dropbox/PhD project/HAL-Results/Tests/";
 }
 
 //      //////////////////////////////  *****************   //////////////////////////////     //
@@ -500,11 +500,11 @@ public class TumorEvolution extends AgentGrid2D<Cell> {
         MUTATION_RATE_03(1e-3, 1e-3, 3, 1, "both_1e-3"),
         MUTATION_RATE_04(1e-4, 1e-4, 3, 1, "both_1e-4");
 
-        private final double DivisionIndependentPMut;
-        private final double DivisionDependentPMut;
-        private final int TotalAverageReplicates;
-        private final int TotaliSCReplicates;
-        private final String MutationNameDefinition;
+        private final double DivisionIndependentPMut;    //div-independent mutation rate
+        private final double DivisionDependentPMut;      //div-dependent mutation rate  
+        private final int TotalAverageReplicates;        //total no. of average replicates
+        private final int TotaliSCReplicates;            //total no. of single-cell replicates
+        private final String MutationNameDefinition;     //output directory folder name 
 
         MutationRun(double DivisionIndependentPMut, double DivisionDependentPMut,
                     int TotalAverageReplicates, int TotaliSCReplicates, String MutationNameDefinition) {
