@@ -56,7 +56,7 @@ start_no_null = 1
 end_no_null = 250
 
 #
-name_str_first_null = "/Volumes/PhD_Data_MW/redo_average_4January2024/std=0.001/pdiv0=0.255/both_0/averages_"
+name_str_first_null = "/Volumes/PhD_Data_MW/average_data_population/std=0.001/pdiv0=0.255/both_0/averages_"
 #"/Volumes/PhD_Data_MW/out_1March2023/classic/both_0/averages_"  
 name_str_last_null = ".csv"
 
@@ -84,7 +84,7 @@ start_no_44 = 1
 end_no_44 = 250
 
 
-name_str_first_44 = "/Volumes/PhD_Data_MW/redo_average_4January2024/std=0.001/pdiv0=0.255/both_1e-4/averages_"
+name_str_first_44 = "/Volumes/PhD_Data_MW/average_data_population/std=0.001/pdiv0=0.255/both_1e-4/averages_"
 #"/Volumes/PhD_Data_MW/out_1March2023/classic/both_1e-4/averages_"  
 name_str_last_44 = ".csv"
 
@@ -110,7 +110,7 @@ p_mut = 1e-3, p_back_mut = 1e-3
 start_no_33 = 1 
 end_no_33 = 250
 
-name_str_first_33 =  "/Volumes/PhD_Data_MW/redo_average_4January2024/std=0.001/pdiv0=0.255/both_1e-3/averages_"
+name_str_first_33 =  "/Volumes/PhD_Data_MW/average_data_population/std=0.001/pdiv0=0.255/both_1e-3/averages_"
 #"/Volumes/PhD_Data_MW/out_1March2023/classic/both_1e-3/averages_"  
 name_str_last_33 = ".csv"
 
@@ -138,7 +138,7 @@ start_no_22 = 1
 end_no_22 = 150
 
 
-name_str_first_22 =  "/Volumes/PhD_Data_MW/redo_average_4January2024/std=0.001/pdiv0=0.255/both_1e-2/averages_"
+name_str_first_22 =  "/Volumes/PhD_Data_MW/average_data_population/std=0.001/pdiv0=0.255/both_1e-2/averages_"
 #"/Volumes/PhD_Data_MW/out_1March2023/classic/both_1e-2/averages_"  
 name_str_last_22 = ".csv"
 
@@ -165,7 +165,7 @@ start_no_11 = 1
 end_no_11 = 75
 
 
-name_str_first_11 =  "/Volumes/PhD_Data_MW/redo_average_4January2024/std=0.001/pdiv0=0.255/both_1e-1/averages_"
+name_str_first_11 =  "/Volumes/PhD_Data_MW/average_data_population/std=0.001/pdiv0=0.255/both_1e-1/averages_"
 #"/Volumes/PhD_Data_MW/out_1March2023/classic/both_1e-1/averages_"  
 name_str_last_11 = ".csv"
 
@@ -193,7 +193,7 @@ p_mut = 1, p_back_mut = 1
 start_no_00 = 1
 end_no_00 = 25
 
-name_str_first_00 =  "/Volumes/PhD_Data_MW/redo_average_4January2024/std=0.001/pdiv0=0.255/both_1/averages_"
+name_str_first_00 =  "/Volumes/PhD_Data_MW/average_data_population/std=0.001/pdiv0=0.255/both_1/averages_"
 #"/Volumes/PhD_Data_MW/out_1March2023/classic/both_1/averages_"  
 name_str_last_00 = ".csv"
 
